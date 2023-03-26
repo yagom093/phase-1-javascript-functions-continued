@@ -47,3 +47,4 @@ describe("index.js", () => {
     });
   })
 })
+wrapAdjective("%")("a dedicated programmer");
